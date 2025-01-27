@@ -13,6 +13,8 @@
 			"extensions": [
 				"GitHub.copilot",
 				"rust-lang.rust-analyzer"
+				
+				
 			],
 			"settings": {
 				"rust-analyzer.cargo.autoreload": true 
