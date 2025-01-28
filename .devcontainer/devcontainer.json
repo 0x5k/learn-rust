@@ -12,9 +12,8 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot",
-				"rust-lang.rust-analyzer"
-				
-				
+				"rust-lang.rust-analyzer",
+				"lyonsyonii.rust-syntax"
 			],
 			"settings": {
 				"rust-analyzer.cargo.autoreload": true 
